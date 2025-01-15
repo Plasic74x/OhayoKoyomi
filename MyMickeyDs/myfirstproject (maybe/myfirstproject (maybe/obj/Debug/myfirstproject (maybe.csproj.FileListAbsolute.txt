@@ -1,0 +1,7 @@
+C:\Users\scui8\source\repos\myfirstproject (maybe\myfirstproject (maybe\bin\Debug\myfirstproject (maybe.exe.config
+C:\Users\scui8\source\repos\myfirstproject (maybe\myfirstproject (maybe\bin\Debug\myfirstproject (maybe.exe
+C:\Users\scui8\source\repos\myfirstproject (maybe\myfirstproject (maybe\bin\Debug\myfirstproject (maybe.pdb
+C:\Users\scui8\source\repos\myfirstproject (maybe\myfirstproject (maybe\obj\Debug\myfirstproject (maybe.csproj.AssemblyReference.cache
+C:\Users\scui8\source\repos\myfirstproject (maybe\myfirstproject (maybe\obj\Debug\myfirstproject (maybe.csproj.CoreCompileInputs.cache
+C:\Users\scui8\source\repos\myfirstproject (maybe\myfirstproject (maybe\obj\Debug\myfirstproject (maybe.exe
+C:\Users\scui8\source\repos\myfirstproject (maybe\myfirstproject (maybe\obj\Debug\myfirstproject (maybe.pdb

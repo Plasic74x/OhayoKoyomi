@@ -1,0 +1,7 @@
+C:\Users\scui8\source\repos\first demoman of 3rd lecture\first demoman of 3rd lecture\bin\Debug\first demoman of 3rd lecture.exe.config
+C:\Users\scui8\source\repos\first demoman of 3rd lecture\first demoman of 3rd lecture\bin\Debug\first demoman of 3rd lecture.exe
+C:\Users\scui8\source\repos\first demoman of 3rd lecture\first demoman of 3rd lecture\bin\Debug\first demoman of 3rd lecture.pdb
+C:\Users\scui8\source\repos\first demoman of 3rd lecture\first demoman of 3rd lecture\obj\Debug\first demoman of 3rd lecture.csproj.AssemblyReference.cache
+C:\Users\scui8\source\repos\first demoman of 3rd lecture\first demoman of 3rd lecture\obj\Debug\first demoman of 3rd lecture.csproj.CoreCompileInputs.cache
+C:\Users\scui8\source\repos\first demoman of 3rd lecture\first demoman of 3rd lecture\obj\Debug\first demoman of 3rd lecture.exe
+C:\Users\scui8\source\repos\first demoman of 3rd lecture\first demoman of 3rd lecture\obj\Debug\first demoman of 3rd lecture.pdb

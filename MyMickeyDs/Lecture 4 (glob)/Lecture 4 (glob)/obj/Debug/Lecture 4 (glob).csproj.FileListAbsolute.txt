@@ -1,0 +1,7 @@
+C:\Users\scui8\source\repos\Lecture 4 (glob)\Lecture 4 (glob)\bin\Debug\Lecture 4 (glob).exe.config
+C:\Users\scui8\source\repos\Lecture 4 (glob)\Lecture 4 (glob)\bin\Debug\Lecture 4 (glob).exe
+C:\Users\scui8\source\repos\Lecture 4 (glob)\Lecture 4 (glob)\bin\Debug\Lecture 4 (glob).pdb
+C:\Users\scui8\source\repos\Lecture 4 (glob)\Lecture 4 (glob)\obj\Debug\Lecture 4 (glob).csproj.AssemblyReference.cache
+C:\Users\scui8\source\repos\Lecture 4 (glob)\Lecture 4 (glob)\obj\Debug\Lecture 4 (glob).csproj.CoreCompileInputs.cache
+C:\Users\scui8\source\repos\Lecture 4 (glob)\Lecture 4 (glob)\obj\Debug\Lecture 4 (glob).exe
+C:\Users\scui8\source\repos\Lecture 4 (glob)\Lecture 4 (glob)\obj\Debug\Lecture 4 (glob).pdb

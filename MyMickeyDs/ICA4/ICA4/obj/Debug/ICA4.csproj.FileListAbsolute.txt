@@ -1,0 +1,7 @@
+C:\Users\scui8\source\repos\ICA4\ICA4\bin\Debug\ICA4.exe.config
+C:\Users\scui8\source\repos\ICA4\ICA4\bin\Debug\ICA4.exe
+C:\Users\scui8\source\repos\ICA4\ICA4\bin\Debug\ICA4.pdb
+C:\Users\scui8\source\repos\ICA4\ICA4\obj\Debug\ICA4.csproj.AssemblyReference.cache
+C:\Users\scui8\source\repos\ICA4\ICA4\obj\Debug\ICA4.csproj.CoreCompileInputs.cache
+C:\Users\scui8\source\repos\ICA4\ICA4\obj\Debug\ICA4.exe
+C:\Users\scui8\source\repos\ICA4\ICA4\obj\Debug\ICA4.pdb

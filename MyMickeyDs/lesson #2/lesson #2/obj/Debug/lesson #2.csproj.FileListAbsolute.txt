@@ -1,0 +1,9 @@
+C:\Users\scui8\source\repos\lesson #2\lesson #2\bin\Debug\lesson #2.exe.config
+C:\Users\scui8\source\repos\lesson #2\lesson #2\bin\Debug\lesson #2.exe
+C:\Users\scui8\source\repos\lesson #2\lesson #2\bin\Debug\lesson #2.pdb
+C:\Users\scui8\source\repos\lesson #2\lesson #2\obj\Debug\lesson #2.csproj.AssemblyReference.cache
+C:\Users\scui8\source\repos\lesson #2\lesson #2\obj\Debug\lesson__2.Properties.Resources.resources
+C:\Users\scui8\source\repos\lesson #2\lesson #2\obj\Debug\lesson #2.csproj.GenerateResource.cache
+C:\Users\scui8\source\repos\lesson #2\lesson #2\obj\Debug\lesson #2.csproj.CoreCompileInputs.cache
+C:\Users\scui8\source\repos\lesson #2\lesson #2\obj\Debug\lesson #2.exe
+C:\Users\scui8\source\repos\lesson #2\lesson #2\obj\Debug\lesson #2.pdb

@@ -1,0 +1,7 @@
+C:\Users\scui8\source\repos\ICA3 -Fall2024- Calc_Area_Circ\ICA3 -Fall2024- Calc_Area_Circ\bin\Debug\ICA3 -Fall2024- Calc_Area_Circ.exe.config
+C:\Users\scui8\source\repos\ICA3 -Fall2024- Calc_Area_Circ\ICA3 -Fall2024- Calc_Area_Circ\bin\Debug\ICA3 -Fall2024- Calc_Area_Circ.exe
+C:\Users\scui8\source\repos\ICA3 -Fall2024- Calc_Area_Circ\ICA3 -Fall2024- Calc_Area_Circ\bin\Debug\ICA3 -Fall2024- Calc_Area_Circ.pdb
+C:\Users\scui8\source\repos\ICA3 -Fall2024- Calc_Area_Circ\ICA3 -Fall2024- Calc_Area_Circ\obj\Debug\ICA3 -Fall2024- Calc_Area_Circ.csproj.AssemblyReference.cache
+C:\Users\scui8\source\repos\ICA3 -Fall2024- Calc_Area_Circ\ICA3 -Fall2024- Calc_Area_Circ\obj\Debug\ICA3 -Fall2024- Calc_Area_Circ.csproj.CoreCompileInputs.cache
+C:\Users\scui8\source\repos\ICA3 -Fall2024- Calc_Area_Circ\ICA3 -Fall2024- Calc_Area_Circ\obj\Debug\ICA3 -Fall2024- Calc_Area_Circ.exe
+C:\Users\scui8\source\repos\ICA3 -Fall2024- Calc_Area_Circ\ICA3 -Fall2024- Calc_Area_Circ\obj\Debug\ICA3 -Fall2024- Calc_Area_Circ.pdb

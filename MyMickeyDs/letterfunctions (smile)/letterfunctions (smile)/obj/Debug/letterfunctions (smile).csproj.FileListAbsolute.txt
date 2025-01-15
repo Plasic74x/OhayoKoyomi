@@ -1,0 +1,7 @@
+C:\Users\scui8\source\repos\letterfunctions (smile)\letterfunctions (smile)\bin\Debug\letterfunctions (smile).exe.config
+C:\Users\scui8\source\repos\letterfunctions (smile)\letterfunctions (smile)\bin\Debug\letterfunctions (smile).exe
+C:\Users\scui8\source\repos\letterfunctions (smile)\letterfunctions (smile)\bin\Debug\letterfunctions (smile).pdb
+C:\Users\scui8\source\repos\letterfunctions (smile)\letterfunctions (smile)\obj\Debug\letterfunctions (smile).csproj.AssemblyReference.cache
+C:\Users\scui8\source\repos\letterfunctions (smile)\letterfunctions (smile)\obj\Debug\letterfunctions (smile).csproj.CoreCompileInputs.cache
+C:\Users\scui8\source\repos\letterfunctions (smile)\letterfunctions (smile)\obj\Debug\letterfunctions (smile).exe
+C:\Users\scui8\source\repos\letterfunctions (smile)\letterfunctions (smile)\obj\Debug\letterfunctions (smile).pdb
