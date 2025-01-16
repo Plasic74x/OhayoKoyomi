@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\scui8\\source\\repos\\Whats your age (lennyface)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{363B0C4F-4C78-4D0B-923F-5F99D8EC6F33}|Whats your age (lennyface)\\Whats your age (lennyface).csproj|c:\\users\\scui8\\source\\repos\\whats your age (lennyface)\\whats your age (lennyface)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363B0C4F-4C78-4D0B-923F-5F99D8EC6F33}|Whats your age (lennyface)\\Whats your age (lennyface).csproj|solutionrelative:whats your age (lennyface)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\scui8\\source\\repos\\Whats your age (lennyface)\\Whats your age (lennyface)\\Program.cs",
+              "RelativeDocumentMoniker": "Whats your age (lennyface)\\Program.cs",
+              "ToolTip": "C:\\Users\\scui8\\source\\repos\\Whats your age (lennyface)\\Whats your age (lennyface)\\Program.cs",
+              "RelativeToolTip": "Whats your age (lennyface)\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:49:44.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

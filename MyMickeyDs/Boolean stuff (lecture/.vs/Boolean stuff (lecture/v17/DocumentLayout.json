@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\scui8\\source\\repos\\Boolean stuff (lecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E328356-76A2-4AFA-A054-CA63EF56FD65}|Boolean stuff (lecture\\Boolean stuff (lecture).csproj|c:\\users\\scui8\\source\\repos\\boolean stuff (lecture\\boolean stuff (lecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E328356-76A2-4AFA-A054-CA63EF56FD65}|Boolean stuff (lecture\\Boolean stuff (lecture).csproj|solutionrelative:boolean stuff (lecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Boolean stuff (lecture)||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E328356-76A2-4AFA-A054-CA63EF56FD65}|Boolean stuff (lecture\\Boolean stuff (lecture).csproj|C:\\Users\\scui8\\source\\repos\\Boolean stuff (lecture\\boolean stuff (lecture\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6E328356-76A2-4AFA-A054-CA63EF56FD65}|Boolean stuff (lecture\\Boolean stuff (lecture).csproj|solutionrelative:boolean stuff (lecture\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\scui8\\source\\repos\\Boolean stuff (lecture\\Boolean stuff (lecture\\App.config",
+              "RelativeDocumentMoniker": "Boolean stuff (lecture\\App.config",
+              "ToolTip": "C:\\Users\\scui8\\source\\repos\\Boolean stuff (lecture\\Boolean stuff (lecture\\App.config",
+              "RelativeToolTip": "Boolean stuff (lecture\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-24T20:05:56.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Boolean stuff (lecture)",
+              "DocumentMoniker": "C:\\Users\\scui8\\source\\repos\\Boolean stuff (lecture\\Boolean stuff (lecture\\Boolean stuff (lecture).csproj",
+              "RelativeDocumentMoniker": "Boolean stuff (lecture\\Boolean stuff (lecture).csproj",
+              "ToolTip": "C:\\Users\\scui8\\source\\repos\\Boolean stuff (lecture\\Boolean stuff (lecture\\Boolean stuff (lecture).csproj*",
+              "RelativeToolTip": "Boolean stuff (lecture\\Boolean stuff (lecture).csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-24T20:04:32.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\scui8\\source\\repos\\Boolean stuff (lecture\\Boolean stuff (lecture\\Program.cs",
+              "RelativeDocumentMoniker": "Boolean stuff (lecture\\Program.cs",
+              "ToolTip": "C:\\Users\\scui8\\source\\repos\\Boolean stuff (lecture\\Boolean stuff (lecture\\Program.cs",
+              "RelativeToolTip": "Boolean stuff (lecture\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T20:04:00.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

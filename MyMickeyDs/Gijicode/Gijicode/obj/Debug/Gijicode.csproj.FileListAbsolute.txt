@@ -1,0 +1,7 @@
+C:\Users\scui8\source\repos\Gijicode\Gijicode\bin\Debug\Gijicode.exe.config
+C:\Users\scui8\source\repos\Gijicode\Gijicode\bin\Debug\Gijicode.exe
+C:\Users\scui8\source\repos\Gijicode\Gijicode\bin\Debug\Gijicode.pdb
+C:\Users\scui8\source\repos\Gijicode\Gijicode\obj\Debug\Gijicode.csproj.AssemblyReference.cache
+C:\Users\scui8\source\repos\Gijicode\Gijicode\obj\Debug\Gijicode.csproj.CoreCompileInputs.cache
+C:\Users\scui8\source\repos\Gijicode\Gijicode\obj\Debug\Gijicode.exe
+C:\Users\scui8\source\repos\Gijicode\Gijicode\obj\Debug\Gijicode.pdb

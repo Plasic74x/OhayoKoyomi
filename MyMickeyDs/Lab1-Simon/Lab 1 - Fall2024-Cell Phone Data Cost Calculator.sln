@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab 1 - Fall2024-Cell Phone Data Cost Calculator", "Lab 1 - Fall2024-Cell Phone Data Cost Calculator\Lab 1 - Fall2024-Cell Phone Data Cost Calculator.csproj", "{49433D96-3DF2-4665-B4A4-D4468BF7E086}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49433D96-3DF2-4665-B4A4-D4468BF7E086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49433D96-3DF2-4665-B4A4-D4468BF7E086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49433D96-3DF2-4665-B4A4-D4468BF7E086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49433D96-3DF2-4665-B4A4-D4468BF7E086}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B22646F8-2863-44AC-B115-5BD3D58672E9}
+	EndGlobalSection
+EndGlobal

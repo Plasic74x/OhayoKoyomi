@@ -1,0 +1,7 @@
+C:\Users\scui8\source\repos\ICA8Ithink\ICA8Ithink\bin\Debug\ICA8Ithink.exe.config
+C:\Users\scui8\source\repos\ICA8Ithink\ICA8Ithink\bin\Debug\ICA8Ithink.exe
+C:\Users\scui8\source\repos\ICA8Ithink\ICA8Ithink\bin\Debug\ICA8Ithink.pdb
+C:\Users\scui8\source\repos\ICA8Ithink\ICA8Ithink\obj\Debug\ICA8Ithink.csproj.AssemblyReference.cache
+C:\Users\scui8\source\repos\ICA8Ithink\ICA8Ithink\obj\Debug\ICA8Ithink.csproj.CoreCompileInputs.cache
+C:\Users\scui8\source\repos\ICA8Ithink\ICA8Ithink\obj\Debug\ICA8Ithink.exe
+C:\Users\scui8\source\repos\ICA8Ithink\ICA8Ithink\obj\Debug\ICA8Ithink.pdb

@@ -1,0 +1,9 @@
+C:\Users\scui8\source\repos\CMPE1300 - ICA 6\CMPE1300 - ICA 6\bin\Debug\CMPE1300 - ICA 6.exe.config
+C:\Users\scui8\source\repos\CMPE1300 - ICA 6\CMPE1300 - ICA 6\bin\Debug\CMPE1300 - ICA 6.exe
+C:\Users\scui8\source\repos\CMPE1300 - ICA 6\CMPE1300 - ICA 6\bin\Debug\CMPE1300 - ICA 6.pdb
+C:\Users\scui8\source\repos\CMPE1300 - ICA 6\CMPE1300 - ICA 6\bin\Debug\GDIDrawer.dll
+C:\Users\scui8\source\repos\CMPE1300 - ICA 6\CMPE1300 - ICA 6\obj\Debug\CMPE1300 - ICA 6.csproj.AssemblyReference.cache
+C:\Users\scui8\source\repos\CMPE1300 - ICA 6\CMPE1300 - ICA 6\obj\Debug\CMPE1300 - ICA 6.csproj.CoreCompileInputs.cache
+C:\Users\scui8\source\repos\CMPE1300 - ICA 6\CMPE1300 - ICA 6\obj\Debug\CMPE1300.B635B35A.Up2Date
+C:\Users\scui8\source\repos\CMPE1300 - ICA 6\CMPE1300 - ICA 6\obj\Debug\CMPE1300 - ICA 6.exe
+C:\Users\scui8\source\repos\CMPE1300 - ICA 6\CMPE1300 - ICA 6\obj\Debug\CMPE1300 - ICA 6.pdb

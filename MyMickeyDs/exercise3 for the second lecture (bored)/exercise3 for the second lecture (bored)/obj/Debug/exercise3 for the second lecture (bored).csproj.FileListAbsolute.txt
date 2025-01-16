@@ -1,0 +1,7 @@
+C:\Users\scui8\source\repos\exercise3 for the second lecture (bored)\exercise3 for the second lecture (bored)\obj\Debug\exercise3 for the second lecture (bored).csproj.AssemblyReference.cache
+C:\Users\scui8\source\repos\exercise3 for the second lecture (bored)\exercise3 for the second lecture (bored)\obj\Debug\exercise3 for the second lecture (bored).csproj.CoreCompileInputs.cache
+C:\Users\scui8\source\repos\exercise3 for the second lecture (bored)\exercise3 for the second lecture (bored)\bin\Debug\exercise3 for the second lecture (bored).exe.config
+C:\Users\scui8\source\repos\exercise3 for the second lecture (bored)\exercise3 for the second lecture (bored)\bin\Debug\exercise3 for the second lecture (bored).exe
+C:\Users\scui8\source\repos\exercise3 for the second lecture (bored)\exercise3 for the second lecture (bored)\bin\Debug\exercise3 for the second lecture (bored).pdb
+C:\Users\scui8\source\repos\exercise3 for the second lecture (bored)\exercise3 for the second lecture (bored)\obj\Debug\exercise3 for the second lecture (bored).exe
+C:\Users\scui8\source\repos\exercise3 for the second lecture (bored)\exercise3 for the second lecture (bored)\obj\Debug\exercise3 for the second lecture (bored).pdb

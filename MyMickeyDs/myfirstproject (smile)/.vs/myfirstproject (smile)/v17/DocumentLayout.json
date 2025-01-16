@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\scui8\\source\\repos\\myfirstproject (smile)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C251BA44-3B5E-4099-8540-E44E3298CADC}|myfirstproject (smile)\\myfirstproject (smile).vbproj|c:\\users\\scui8\\source\\repos\\myfirstproject (smile)\\myfirstproject (smile)\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C251BA44-3B5E-4099-8540-E44E3298CADC}|myfirstproject (smile)\\myfirstproject (smile).vbproj|solutionrelative:myfirstproject (smile)\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\scui8\\source\\repos\\myfirstproject (smile)\\myfirstproject (smile)\\Module1.vb",
+              "RelativeDocumentMoniker": "myfirstproject (smile)\\Module1.vb",
+              "ToolTip": "C:\\Users\\scui8\\source\\repos\\myfirstproject (smile)\\myfirstproject (smile)\\Module1.vb",
+              "RelativeToolTip": "myfirstproject (smile)\\Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-03T21:08:56.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

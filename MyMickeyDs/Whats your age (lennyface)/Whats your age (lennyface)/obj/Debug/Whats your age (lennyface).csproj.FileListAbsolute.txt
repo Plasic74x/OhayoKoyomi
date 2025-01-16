@@ -1,0 +1,7 @@
+C:\Users\scui8\source\repos\Whats your age (lennyface)\Whats your age (lennyface)\bin\Debug\Whats your age (lennyface).exe.config
+C:\Users\scui8\source\repos\Whats your age (lennyface)\Whats your age (lennyface)\bin\Debug\Whats your age (lennyface).exe
+C:\Users\scui8\source\repos\Whats your age (lennyface)\Whats your age (lennyface)\bin\Debug\Whats your age (lennyface).pdb
+C:\Users\scui8\source\repos\Whats your age (lennyface)\Whats your age (lennyface)\obj\Debug\Whats your age (lennyface).csproj.AssemblyReference.cache
+C:\Users\scui8\source\repos\Whats your age (lennyface)\Whats your age (lennyface)\obj\Debug\Whats your age (lennyface).csproj.CoreCompileInputs.cache
+C:\Users\scui8\source\repos\Whats your age (lennyface)\Whats your age (lennyface)\obj\Debug\Whats your age (lennyface).exe
+C:\Users\scui8\source\repos\Whats your age (lennyface)\Whats your age (lennyface)\obj\Debug\Whats your age (lennyface).pdb

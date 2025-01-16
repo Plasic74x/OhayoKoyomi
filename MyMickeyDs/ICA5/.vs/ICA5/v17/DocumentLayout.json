@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\scui8\\source\\repos\\ICA5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B927965E-86F0-41CE-BCB0-EB73EC7D17B1}|ICA5\\ICA5.csproj|c:\\users\\scui8\\source\\repos\\ica5\\ica5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B927965E-86F0-41CE-BCB0-EB73EC7D17B1}|ICA5\\ICA5.csproj|solutionrelative:ica5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ICA5||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\scui8\\source\\repos\\ICA5\\ICA5\\Program.cs",
+              "RelativeDocumentMoniker": "ICA5\\Program.cs",
+              "ToolTip": "C:\\Users\\scui8\\source\\repos\\ICA5\\ICA5\\Program.cs",
+              "RelativeToolTip": "ICA5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T14:43:01.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICA5",
+              "DocumentMoniker": "C:\\Users\\scui8\\source\\repos\\ICA5\\ICA5\\ICA5.csproj",
+              "RelativeDocumentMoniker": "ICA5\\ICA5.csproj",
+              "ToolTip": "C:\\Users\\scui8\\source\\repos\\ICA5\\ICA5\\ICA5.csproj",
+              "RelativeToolTip": "ICA5\\ICA5.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-02T14:45:53.375Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+C:\Users\scui8\source\repos\ICA6\ICA6\bin\Debug\ICA6.exe.config
+C:\Users\scui8\source\repos\ICA6\ICA6\bin\Debug\ICA6.exe
+C:\Users\scui8\source\repos\ICA6\ICA6\bin\Debug\ICA6.pdb
+C:\Users\scui8\source\repos\ICA6\ICA6\bin\Debug\GDIDrawer.dll
+C:\Users\scui8\source\repos\ICA6\ICA6\obj\Debug\ICA6.csproj.AssemblyReference.cache
+C:\Users\scui8\source\repos\ICA6\ICA6\obj\Debug\ICA6.csproj.CoreCompileInputs.cache
+C:\Users\scui8\source\repos\ICA6\ICA6\obj\Debug\ICA6.csproj.Up2Date
+C:\Users\scui8\source\repos\ICA6\ICA6\obj\Debug\ICA6.exe
+C:\Users\scui8\source\repos\ICA6\ICA6\obj\Debug\ICA6.pdb

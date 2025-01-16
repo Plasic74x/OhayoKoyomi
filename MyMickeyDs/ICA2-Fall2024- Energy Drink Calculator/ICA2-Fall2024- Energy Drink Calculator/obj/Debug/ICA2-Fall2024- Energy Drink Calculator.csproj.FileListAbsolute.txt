@@ -1,0 +1,7 @@
+C:\Users\scui8\source\repos\ICA2-Fall2024- Energy Drink Calculator\ICA2-Fall2024- Energy Drink Calculator\bin\Debug\ICA2-Fall2024- Energy Drink Calculator.exe.config
+C:\Users\scui8\source\repos\ICA2-Fall2024- Energy Drink Calculator\ICA2-Fall2024- Energy Drink Calculator\bin\Debug\ICA2-Fall2024- Energy Drink Calculator.exe
+C:\Users\scui8\source\repos\ICA2-Fall2024- Energy Drink Calculator\ICA2-Fall2024- Energy Drink Calculator\bin\Debug\ICA2-Fall2024- Energy Drink Calculator.pdb
+C:\Users\scui8\source\repos\ICA2-Fall2024- Energy Drink Calculator\ICA2-Fall2024- Energy Drink Calculator\obj\Debug\ICA2-Fall2024- Energy Drink Calculator.csproj.AssemblyReference.cache
+C:\Users\scui8\source\repos\ICA2-Fall2024- Energy Drink Calculator\ICA2-Fall2024- Energy Drink Calculator\obj\Debug\ICA2-Fall2024- Energy Drink Calculator.csproj.CoreCompileInputs.cache
+C:\Users\scui8\source\repos\ICA2-Fall2024- Energy Drink Calculator\ICA2-Fall2024- Energy Drink Calculator\obj\Debug\ICA2-Fall2024- Energy Drink Calculator.exe
+C:\Users\scui8\source\repos\ICA2-Fall2024- Energy Drink Calculator\ICA2-Fall2024- Energy Drink Calculator\obj\Debug\ICA2-Fall2024- Energy Drink Calculator.pdb
