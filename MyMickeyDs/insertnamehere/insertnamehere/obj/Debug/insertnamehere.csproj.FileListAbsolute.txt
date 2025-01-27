@@ -1,0 +1,7 @@
+C:\Users\scui8\source\repos\insertnamehere\insertnamehere\obj\Debug\insertnamehere.csproj.AssemblyReference.cache
+C:\Users\scui8\source\repos\insertnamehere\insertnamehere\obj\Debug\insertnamehere.csproj.CoreCompileInputs.cache
+C:\Users\scui8\source\repos\insertnamehere\insertnamehere\bin\Debug\insertnamehere.exe.config
+C:\Users\scui8\source\repos\insertnamehere\insertnamehere\bin\Debug\insertnamehere.exe
+C:\Users\scui8\source\repos\insertnamehere\insertnamehere\bin\Debug\insertnamehere.pdb
+C:\Users\scui8\source\repos\insertnamehere\insertnamehere\obj\Debug\insertnamehere.exe
+C:\Users\scui8\source\repos\insertnamehere\insertnamehere\obj\Debug\insertnamehere.pdb

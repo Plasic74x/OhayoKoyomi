@@ -1,0 +1,7 @@
+C:\Users\scui8\source\repos\Lecture4Demo1\Lecture4Demo1\bin\Debug\Lecture4Demo1.exe.config
+C:\Users\scui8\source\repos\Lecture4Demo1\Lecture4Demo1\bin\Debug\Lecture4Demo1.exe
+C:\Users\scui8\source\repos\Lecture4Demo1\Lecture4Demo1\bin\Debug\Lecture4Demo1.pdb
+C:\Users\scui8\source\repos\Lecture4Demo1\Lecture4Demo1\obj\Debug\Lecture4Demo1.csproj.AssemblyReference.cache
+C:\Users\scui8\source\repos\Lecture4Demo1\Lecture4Demo1\obj\Debug\Lecture4Demo1.csproj.CoreCompileInputs.cache
+C:\Users\scui8\source\repos\Lecture4Demo1\Lecture4Demo1\obj\Debug\Lecture4Demo1.exe
+C:\Users\scui8\source\repos\Lecture4Demo1\Lecture4Demo1\obj\Debug\Lecture4Demo1.pdb

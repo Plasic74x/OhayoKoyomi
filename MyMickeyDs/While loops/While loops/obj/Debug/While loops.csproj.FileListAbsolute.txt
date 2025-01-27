@@ -1,0 +1,7 @@
+C:\Users\scui8\source\repos\While loops\While loops\obj\Debug\While loops.csproj.AssemblyReference.cache
+C:\Users\scui8\source\repos\While loops\While loops\obj\Debug\While loops.csproj.CoreCompileInputs.cache
+C:\Users\scui8\source\repos\While loops\While loops\bin\Debug\While loops.exe.config
+C:\Users\scui8\source\repos\While loops\While loops\bin\Debug\While loops.exe
+C:\Users\scui8\source\repos\While loops\While loops\bin\Debug\While loops.pdb
+C:\Users\scui8\source\repos\While loops\While loops\obj\Debug\While loops.exe
+C:\Users\scui8\source\repos\While loops\While loops\obj\Debug\While loops.pdb

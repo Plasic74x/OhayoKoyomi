@@ -1,0 +1,7 @@
+C:\Users\scui8\source\repos\Guess the number game\Guess the number game\bin\Debug\Guess the number game.exe.config
+C:\Users\scui8\source\repos\Guess the number game\Guess the number game\bin\Debug\Guess the number game.exe
+C:\Users\scui8\source\repos\Guess the number game\Guess the number game\bin\Debug\Guess the number game.pdb
+C:\Users\scui8\source\repos\Guess the number game\Guess the number game\obj\Debug\Guess the number game.csproj.AssemblyReference.cache
+C:\Users\scui8\source\repos\Guess the number game\Guess the number game\obj\Debug\Guess the number game.csproj.CoreCompileInputs.cache
+C:\Users\scui8\source\repos\Guess the number game\Guess the number game\obj\Debug\Guess the number game.exe
+C:\Users\scui8\source\repos\Guess the number game\Guess the number game\obj\Debug\Guess the number game.pdb

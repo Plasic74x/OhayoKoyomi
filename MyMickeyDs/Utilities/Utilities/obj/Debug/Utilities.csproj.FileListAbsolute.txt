@@ -1,0 +1,6 @@
+C:\Users\scui8\source\repos\Utilities\Utilities\bin\Debug\Utilities.dll
+C:\Users\scui8\source\repos\Utilities\Utilities\bin\Debug\Utilities.pdb
+C:\Users\scui8\source\repos\Utilities\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+C:\Users\scui8\source\repos\Utilities\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\scui8\source\repos\Utilities\Utilities\obj\Debug\Utilities.dll
+C:\Users\scui8\source\repos\Utilities\Utilities\obj\Debug\Utilities.pdb

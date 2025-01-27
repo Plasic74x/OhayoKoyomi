@@ -1,0 +1,7 @@
+C:\Users\scui8\source\repos\ICA1 -Fall2024- Pop Calculator\ICA1 -Fall2024- Pop Calculator\bin\Debug\ICA1 -Fall2024- Pop Calculator.exe.config
+C:\Users\scui8\source\repos\ICA1 -Fall2024- Pop Calculator\ICA1 -Fall2024- Pop Calculator\bin\Debug\ICA1 -Fall2024- Pop Calculator.exe
+C:\Users\scui8\source\repos\ICA1 -Fall2024- Pop Calculator\ICA1 -Fall2024- Pop Calculator\bin\Debug\ICA1 -Fall2024- Pop Calculator.pdb
+C:\Users\scui8\source\repos\ICA1 -Fall2024- Pop Calculator\ICA1 -Fall2024- Pop Calculator\obj\Debug\ICA1 -Fall2024- Pop Calculator.csproj.AssemblyReference.cache
+C:\Users\scui8\source\repos\ICA1 -Fall2024- Pop Calculator\ICA1 -Fall2024- Pop Calculator\obj\Debug\ICA1 -Fall2024- Pop Calculator.csproj.CoreCompileInputs.cache
+C:\Users\scui8\source\repos\ICA1 -Fall2024- Pop Calculator\ICA1 -Fall2024- Pop Calculator\obj\Debug\ICA1 -Fall2024- Pop Calculator.exe
+C:\Users\scui8\source\repos\ICA1 -Fall2024- Pop Calculator\ICA1 -Fall2024- Pop Calculator\obj\Debug\ICA1 -Fall2024- Pop Calculator.pdb

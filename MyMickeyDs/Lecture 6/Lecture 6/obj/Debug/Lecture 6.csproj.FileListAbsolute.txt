@@ -1,0 +1,7 @@
+C:\Users\scui8\source\repos\Lecture 6\Lecture 6\bin\Debug\Lecture 6.exe.config
+C:\Users\scui8\source\repos\Lecture 6\Lecture 6\bin\Debug\Lecture 6.exe
+C:\Users\scui8\source\repos\Lecture 6\Lecture 6\bin\Debug\Lecture 6.pdb
+C:\Users\scui8\source\repos\Lecture 6\Lecture 6\obj\Debug\Lecture 6.csproj.AssemblyReference.cache
+C:\Users\scui8\source\repos\Lecture 6\Lecture 6\obj\Debug\Lecture 6.csproj.CoreCompileInputs.cache
+C:\Users\scui8\source\repos\Lecture 6\Lecture 6\obj\Debug\Lecture 6.exe
+C:\Users\scui8\source\repos\Lecture 6\Lecture 6\obj\Debug\Lecture 6.pdb

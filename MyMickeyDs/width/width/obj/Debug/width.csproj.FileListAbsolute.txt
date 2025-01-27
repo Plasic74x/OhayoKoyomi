@@ -1,0 +1,7 @@
+C:\Users\scui8\source\repos\width\width\bin\Debug\width.exe.config
+C:\Users\scui8\source\repos\width\width\bin\Debug\width.exe
+C:\Users\scui8\source\repos\width\width\bin\Debug\width.pdb
+C:\Users\scui8\source\repos\width\width\obj\Debug\width.csproj.AssemblyReference.cache
+C:\Users\scui8\source\repos\width\width\obj\Debug\width.csproj.CoreCompileInputs.cache
+C:\Users\scui8\source\repos\width\width\obj\Debug\width.exe
+C:\Users\scui8\source\repos\width\width\obj\Debug\width.pdb

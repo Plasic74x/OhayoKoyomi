@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\scui8\\source\\repos\\ICA7 - CMPE1300\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB8A944-7A55-47E1-A9F6-9CDC269ABD30}|ICA7 - CMPE1300\\ICA7 - CMPE1300.csproj|c:\\users\\scui8\\source\\repos\\ica7 - cmpe1300\\ica7 - cmpe1300\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB8A944-7A55-47E1-A9F6-9CDC269ABD30}|ICA7 - CMPE1300\\ICA7 - CMPE1300.csproj|solutionrelative:ica7 - cmpe1300\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\scui8\\source\\repos\\ICA7 - CMPE1300\\ICA7 - CMPE1300\\Program.cs",
+              "RelativeDocumentMoniker": "ICA7 - CMPE1300\\Program.cs",
+              "ToolTip": "C:\\Users\\scui8\\source\\repos\\ICA7 - CMPE1300\\ICA7 - CMPE1300\\Program.cs",
+              "RelativeToolTip": "ICA7 - CMPE1300\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T03:59:24.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\scui8\source\repos\Lecture 5 pt 2\Lecture 5 pt 2\obj\Debug\Lecture 5 pt 2.csproj.AssemblyReference.cache
+C:\Users\scui8\source\repos\Lecture 5 pt 2\Lecture 5 pt 2\obj\Debug\Lecture 5 pt 2.csproj.CoreCompileInputs.cache
+C:\Users\scui8\source\repos\Lecture 5 pt 2\Lecture 5 pt 2\bin\Debug\Lecture 5 pt 2.exe.config
+C:\Users\scui8\source\repos\Lecture 5 pt 2\Lecture 5 pt 2\bin\Debug\Lecture 5 pt 2.exe
+C:\Users\scui8\source\repos\Lecture 5 pt 2\Lecture 5 pt 2\bin\Debug\Lecture 5 pt 2.pdb
+C:\Users\scui8\source\repos\Lecture 5 pt 2\Lecture 5 pt 2\obj\Debug\Lecture 5 pt 2.exe
+C:\Users\scui8\source\repos\Lecture 5 pt 2\Lecture 5 pt 2\obj\Debug\Lecture 5 pt 2.pdb

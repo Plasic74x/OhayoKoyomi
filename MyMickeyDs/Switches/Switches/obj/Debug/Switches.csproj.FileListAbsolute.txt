@@ -1,0 +1,7 @@
+C:\Users\scui8\source\repos\Switches\Switches\obj\Debug\Switches.csproj.AssemblyReference.cache
+C:\Users\scui8\source\repos\Switches\Switches\obj\Debug\Switches.csproj.CoreCompileInputs.cache
+C:\Users\scui8\source\repos\Switches\Switches\bin\Debug\Switches.exe.config
+C:\Users\scui8\source\repos\Switches\Switches\bin\Debug\Switches.exe
+C:\Users\scui8\source\repos\Switches\Switches\bin\Debug\Switches.pdb
+C:\Users\scui8\source\repos\Switches\Switches\obj\Debug\Switches.exe
+C:\Users\scui8\source\repos\Switches\Switches\obj\Debug\Switches.pdb

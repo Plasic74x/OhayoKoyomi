@@ -1,0 +1,6 @@
+C:\Users\scui8\source\repos\demo2 lecture 3\demo2 lecture 3\bin\Debug\demo2 lecture 3.exe.config
+C:\Users\scui8\source\repos\demo2 lecture 3\demo2 lecture 3\bin\Debug\demo2 lecture 3.exe
+C:\Users\scui8\source\repos\demo2 lecture 3\demo2 lecture 3\obj\Debug\All The Very Nice Letter functions (smile).csproj.AssemblyReference.cache
+C:\Users\scui8\source\repos\demo2 lecture 3\demo2 lecture 3\obj\Debug\All The Very Nice Letter functions (smile).csproj.CoreCompileInputs.cache
+C:\Users\scui8\source\repos\demo2 lecture 3\demo2 lecture 3\obj\Debug\demo2 lecture 3.exe
+C:\Users\scui8\source\repos\demo2 lecture 3\demo2 lecture 3\obj\Debug\demo2 lecture 3.pdb

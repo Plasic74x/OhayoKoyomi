@@ -1,0 +1,14 @@
+C:\Users\ch_qq\source\repos\Lab 1 - Fall2024-Cell Phone Data Cost Calculator\Lab 1 - Fall2024-Cell Phone Data Cost Calculator\bin\Debug\Lab 1 - Fall2024-Cell Phone Data Cost Calculator.exe.config
+C:\Users\ch_qq\source\repos\Lab 1 - Fall2024-Cell Phone Data Cost Calculator\Lab 1 - Fall2024-Cell Phone Data Cost Calculator\bin\Debug\Lab 1 - Fall2024-Cell Phone Data Cost Calculator.exe
+C:\Users\ch_qq\source\repos\Lab 1 - Fall2024-Cell Phone Data Cost Calculator\Lab 1 - Fall2024-Cell Phone Data Cost Calculator\bin\Debug\Lab 1 - Fall2024-Cell Phone Data Cost Calculator.pdb
+C:\Users\ch_qq\source\repos\Lab 1 - Fall2024-Cell Phone Data Cost Calculator\Lab 1 - Fall2024-Cell Phone Data Cost Calculator\obj\Debug\Lab 1 - Fall2024-Cell Phone Data Cost Calculator.csproj.AssemblyReference.cache
+C:\Users\ch_qq\source\repos\Lab 1 - Fall2024-Cell Phone Data Cost Calculator\Lab 1 - Fall2024-Cell Phone Data Cost Calculator\obj\Debug\Lab 1 - Fall2024-Cell Phone Data Cost Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ch_qq\source\repos\Lab 1 - Fall2024-Cell Phone Data Cost Calculator\Lab 1 - Fall2024-Cell Phone Data Cost Calculator\obj\Debug\Lab 1 - Fall2024-Cell Phone Data Cost Calculator.exe
+C:\Users\ch_qq\source\repos\Lab 1 - Fall2024-Cell Phone Data Cost Calculator\Lab 1 - Fall2024-Cell Phone Data Cost Calculator\obj\Debug\Lab 1 - Fall2024-Cell Phone Data Cost Calculator.pdb
+C:\Users\scui8\source\repos\Lab 1 - Fall2024-Cell Phone Data Cost Calculator\Lab 1 - Fall2024-Cell Phone Data Cost Calculator\bin\Debug\Lab 1 - Fall2024-Cell Phone Data Cost Calculator.exe.config
+C:\Users\scui8\source\repos\Lab 1 - Fall2024-Cell Phone Data Cost Calculator\Lab 1 - Fall2024-Cell Phone Data Cost Calculator\bin\Debug\Lab 1 - Fall2024-Cell Phone Data Cost Calculator.exe
+C:\Users\scui8\source\repos\Lab 1 - Fall2024-Cell Phone Data Cost Calculator\Lab 1 - Fall2024-Cell Phone Data Cost Calculator\bin\Debug\Lab 1 - Fall2024-Cell Phone Data Cost Calculator.pdb
+C:\Users\scui8\source\repos\Lab 1 - Fall2024-Cell Phone Data Cost Calculator\Lab 1 - Fall2024-Cell Phone Data Cost Calculator\obj\Debug\Lab 1 - Fall2024-Cell Phone Data Cost Calculator.csproj.AssemblyReference.cache
+C:\Users\scui8\source\repos\Lab 1 - Fall2024-Cell Phone Data Cost Calculator\Lab 1 - Fall2024-Cell Phone Data Cost Calculator\obj\Debug\Lab 1 - Fall2024-Cell Phone Data Cost Calculator.csproj.CoreCompileInputs.cache
+C:\Users\scui8\source\repos\Lab 1 - Fall2024-Cell Phone Data Cost Calculator\Lab 1 - Fall2024-Cell Phone Data Cost Calculator\obj\Debug\Lab 1 - Fall2024-Cell Phone Data Cost Calculator.exe
+C:\Users\scui8\source\repos\Lab 1 - Fall2024-Cell Phone Data Cost Calculator\Lab 1 - Fall2024-Cell Phone Data Cost Calculator\obj\Debug\Lab 1 - Fall2024-Cell Phone Data Cost Calculator.pdb
